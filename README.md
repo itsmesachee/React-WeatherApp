@@ -6,3 +6,7 @@
 > npm install
 > npm start
 ```
+
+### How app looks?
+
+<img src="Final App.png" width = 900, height = 700>
