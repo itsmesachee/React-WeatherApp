@@ -13,7 +13,7 @@ class GoogleMap extends Component {
 
   render() {
     return(
-      <div ref="map" />
+      <div ref="map" /> //this is specific to react. this react's ref system. this is how to embed third party things to out react app.
     );
   }
 }
